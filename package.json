@@ -1,0 +1,21 @@
+{
+	"name": "desafio-do-24",
+	"version": "1.0.0",
+	"description": "",
+	"main": "projeto.js",
+	"scripts": {
+		"test": "node tests/test.js",
+		"fullTest": "node tests/fullTest.js",
+		"start": "node projeto.js"
+	},
+	"author": "Wesley Parastchuk <wesleyparastchuk@gmail.com> (https://github.com/WesleyParastchuk)",
+	"license": "ISC",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/WesleyParastchuk/desafio-do-24.git"
+	},
+	"bugs": {
+		"url": "https://github.com/WesleyParastchuk/desafio-do-24/issues"
+	},
+	"homepage": "https://github.com/WesleyParastchuk/desafio-do-24#readme"
+}
